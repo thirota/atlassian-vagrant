@@ -4,7 +4,7 @@ My vagrantfiles for Atlassian products.
 
 ## Platform
 
-Vagrant 1.6 and VirtualBox 4.3
+Vagrant and VirtualBox
 
 ## License
 
