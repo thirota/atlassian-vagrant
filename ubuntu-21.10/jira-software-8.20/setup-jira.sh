@@ -5,7 +5,7 @@ sudo apt -y install expect
 sudo apt -y install fontconfig
 
 # install JIRA
-JIRA_BIN=atlassian-jira-software-8.20.5-x64.bin
+JIRA_BIN=atlassian-jira-software-8.20.6-x64.bin
 sudo wget -nv --no-check-certificate https://www.atlassian.com/software/jira/downloads/binary/$JIRA_BIN
 sudo chmod +x $JIRA_BIN
 
